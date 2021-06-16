@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.dhyasani</groupId>
-    <artifactId>LibraryEventKafkaApp</artifactId>
+    <artifactId>LibraryEventProducer</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>LibraryEventKafkaApp</name>
+    <name>LibraryEventProducer</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>11</java.version>
